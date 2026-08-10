@@ -92,7 +92,7 @@ Wrote comprehensive unit tests to protect existing feature from regressions duri
 
 ---
 
-### `$ cat core_expertise.text`
+### `$ cat core_expertise.txt`
 
 - Design Patterns
 - Backend Architecture
