@@ -9,7 +9,7 @@
 
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calm&weight=500&pause=1000&color=0BDA51&width=285&lines=specializing+in+scalable)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calm&weight=500&pause=1000&color=0BDA51&width=285&lines=building+products+end+to+end)](https://git.io/typing-svg)
 
 <br>
 
