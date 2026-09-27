@@ -30,6 +30,20 @@ I enjoy turning complex business problems into reliable, maintainable, hight-per
 
 <table>
 <tr>
+
+<td colspan="2" width="100%" align="top">
+
+<h3 align="center">Immersive Commerce</h3>
+<p align="center">
+Engineered a full-stack e-commerce platform from scratch, building a resilient architecture across frontend, backend, Google Cloud infrastructure, and automated CI/CD pipelines. Integrated AI-powered virtual try-on capabilities using the Together AI API, enabling real-time, interactive product visualizations for online shoppers. Designed a scalable database schema supporting multi-language and multi-currency features to facilitate seamless global transactions; optimized 3D asset pipelines using Blender, collaborating with 3D modelers to process and render lightweight assets for web-based AR/VR experiences
+</p>
+<p align="center"><code>Rust</code> <code>Ai (Together ai with Flux)</code> <code>Astro</code> <code>Nuxt</code> <code>React</code> <code>MongoDB</code></p>
+
+</td>
+
+</tr>
+
+<tr>
   
 <td width="50%" align="top">
 
@@ -41,7 +55,6 @@ Designed a nested-folder database schema to organize and access-control confiden
 <p align="center"><code>Go</code> <code>GraphQL</code> <code>MongoDB</code></p>
 
 </td>
-
 
 <td width="50%" align="top">
 
